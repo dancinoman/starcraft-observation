@@ -1,8 +1,7 @@
 # Core libraries
 ipywidgets
-IPython.display
 pandas
-numpy 
+numpy
 matplotlib
 
 # ScikitLearn library
