@@ -1,0 +1,13 @@
+# Core libraries
+ipywidgets
+IPython.display
+pandas
+numpy 
+matplotlib
+
+# ScikitLearn library
+sklearn
+imblearn
+
+# Explanation AI
+shap
