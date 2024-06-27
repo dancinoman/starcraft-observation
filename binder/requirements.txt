@@ -5,8 +5,9 @@ numpy
 matplotlib
 
 # ScikitLearn library
-sklearn
+ScikitLearn
 imblearn
 
 # Explanation AI
 shap
+
